@@ -1,0 +1,5 @@
+*.o
+matmul-*
+*.csv
+*.pdf
+*.txt
